@@ -32,7 +32,7 @@ This is a simple News application built using Tkinter, a Python GUI library. The
 
 Usage of the application is as shown below:
 
-![News_App gif](News_App/images/news_app.gif)
+![News_App gif]('News_App/images/news_app.gif')
 
 ## Contributing
 
